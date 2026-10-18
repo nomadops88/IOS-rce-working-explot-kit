@@ -152,3 +152,5 @@ cd server && pip install -e . && darksword serve --c2-host https://your-domain.c
 cd admin/frontend && npm install && npm run build
 uvicorn admin.main:app --port 8000
 ```
+
+For more information and technical support write to TG @qwrwd123
