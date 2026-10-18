@@ -153,4 +153,4 @@ cd admin/frontend && npm install && npm run build
 uvicorn admin.main:app --port 8000
 ```
 
-For more information and technical support write to TG @qwrwd123
+FOR MORE INFORMATION AND TECHNICAL SUPPORT WRITE TO TG @QWRWD123
