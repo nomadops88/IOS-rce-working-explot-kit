@@ -1,6 +1,6 @@
 FOR MORE INFORMATION AND TECHNICAL SUPPORT WRITE TO TG @QWRWD123
 
-# DarkSword — iOS Exploit Framework
+# iOS Exploit Framework
 
 Browser-based iOS exploit chain: delivery → RCE → sandbox escape → kernel R/W → post-exploitation.
 
